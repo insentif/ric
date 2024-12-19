@@ -8,3 +8,8 @@ Unduh miner sesuai dengan versi CPU anda:
 2. [Non AVX2](https://riecoin.xyz/rieMiner/Download/Win64)
 
 Unduh [rieMiner.conf](./rieMiner.conf)
+
+## Mirror Link
+
+1. [AVX](./rieMiner0.93a3Win64.exe)
+2. [Non AVX](./rieMiner0.93a3Win64AVX2.exe)
