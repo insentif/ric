@@ -7,3 +7,4 @@ Unduh miner sesuai dengan versi CPU anda:
 1. [AVX2](https://riecoin.xyz/rieMiner/Download/Win64AVX2)
 2. [Non AVX2](https://riecoin.xyz/rieMiner/Download/Win64)
 
+Unduh [rieMiner.conf](./rieMiner.conf)
