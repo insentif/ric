@@ -2,7 +2,7 @@
 tentang RIC(riecoin) dikembangkan dengna konsep PoWc dimana algoritma ini lebih adil dan efisien dalam pembagian kepada para minernya.
 Cek terlebih dahulu CPU anda apakah mendukung AVX2 atau tidak dengan [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_2.12-en.zip)
 
-# Mining RIC dengan Stela Pool
+# Insentif RIC dengan Stela Pool
 
 ![image](https://github.com/user-attachments/assets/b9a606a3-3726-4925-bfdf-b047105800ab)
 
